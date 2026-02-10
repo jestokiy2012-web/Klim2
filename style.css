@@ -1,0 +1,180 @@
+.boxes{
+display: flex;
+gap: 120px;
+justify-content: center;
+}
+.h1-1{
+    color: blue;
+
+   padding-right: 100px;
+}
+.h4-9{
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(42, 42, 193);
+    border-radius: 7px;
+}
+.h1-2{
+    font-weight: 900;
+    text-align: center;
+    font-size: 43px;
+   
+}
+strong{
+    color: rgb(109, 109, 225);
+}
+.rod{
+    margin-top: 100px;
+}
+.p-1{
+    text-align: center;
+}
+.btn-1{
+    background-color: rgb(110, 110, 255);
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+border-radius: 10px;
+   top: 68%;
+   left: 45%;
+   position: absolute;
+}
+.youtube{
+  width: 20px;
+  height: 14px;
+  background: #EB5757; /* цвет как у тебя */
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 1px;
+  margin-bottom: 70px;
+}
+.play{
+  width: 0;
+  height: 0;
+  border-top: 3.5px solid transparent;
+  border-bottom: 3.5px solid transparent;
+  border-left: 5.5px solid white;
+}
+.rty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+a{
+    padding-bottom: 70px;
+    padding-right: 50px;
+    font-size: 10px;
+}
+.h3-1{
+margin-left: 680px;
+}
+.p-2{
+    margin-left: 300px;
+}
+.p-3{
+    margin-left: 390px;
+}
+.image{
+    margin-top: 50px;
+}       
+.img-1{
+    width: 456.41px;
+    height: 437.3px;
+    margin-left: 110px;
+}
+.container{
+display: flex;
+align-items: center;
+gap: 50px   ;
+padding: 120px;
+}
+.h3-2{
+
+    font-size: 30px;
+}
+.btn-2{
+  
+      background-color: rgb(110, 110, 255);
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+border-radius: 10px;
+   top: 190%;
+   left: 48%;
+   position: absolute;
+}
+.h3-3{
+    font-size: 30px;
+}
+
+.btn-3{
+      background-color: rgb(110, 110, 255);
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+border-radius: 10px;
+   top: 270%;
+   left: 10%;
+   position: absolute;
+}
+.btn-4{
+     background-color: rgb(110, 110, 255);
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+border-radius: 10px;
+   top: 350%;
+   left: 49%;
+   position: absolute;  
+}
+.asdfg{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.p-5{
+    margin-left: 450px;
+   
+}
+.p-6{
+    margin-left: 470px;
+}
+.p-7{
+margin-left: 600px;
+}
+
+.poiuyt{
+width: 270px;
+height: 267px;
+background-color: rgb(233, 233, 235);
+}
+.klutoi{
+    gap: 50px;
+    display: flex;
+    margin-left: 100px;
+    text-align: center;
+}
+.poiuy{
+width: 270px;
+height: 267px;
+background-color: rgb(233, 233, 235);
+}
+.poikl{
+     gap: 50px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    text-align: center;
+}
+.img-5{
+    width: 90px;
+    height: 120px
+}
+.p-8{
+    text-align: center;
+}
